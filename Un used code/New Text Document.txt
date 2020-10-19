@@ -1,0 +1,28 @@
+    <div class="row">
+        <div class="columns">
+          <ul class="price">
+            <li class="header">PLACE HOLDER</li>
+            <li class="grey">$50/YEARLY</li>
+            <li>Low Latency</li>
+            <li>High Speeds</li>
+            <li>PS4/XBOX ONE Compatiable</li>
+            <li>All Locations</li>
+            <li>IOS & Android VPN Access
+            <li>24/7 Premium Customer Support</li>
+            <li>No Log Policy</li>
+            </li>   <li class="grey"><a href="#" class="capsule-button">Buy Now</a></li>
+            </ul>
+        </div>
+    </div>
+                    <div class="row">
+                        <div class="columns">
+                          <ul class="price">
+                            <li class="header">PLACE HOLDERS</li>
+                            <li class="grey">$13/ 3 MONTHS</li>
+            <li>Low Latency</li>
+            <li>High Speeds</li>
+            <li>PS4/XBOX ONE Compatiable</li>
+            <li>All Locations</li>
+            <li>IOS & Android VPN Access
+            <li>No Log Policy</li>
+                                    <li class="grey"><a href="#" class="capsule-button">Buy Now</a></li>
