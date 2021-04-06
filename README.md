@@ -1,5 +1,5 @@
 # HTML-Website-Template
-A free template for people to use that want to start a site but don't know / want to code they're own source!
+A free template for people to use that want to start a site but don't know / have time to code their own source!
 
 ```
 HTML Template
